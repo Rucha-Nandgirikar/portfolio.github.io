@@ -1462,6 +1462,14 @@ a:focus {
     margin: 0;
 }
 
+.tech-icon {
+    font-size: 2.5rem;
+    color: darkslateblue;
+}
+.tech-label {
+    margin-top: 0.5rem;
+    font-weight: bold;
+}
 
 /*******************************/
 /********* Footer CSS **********/
