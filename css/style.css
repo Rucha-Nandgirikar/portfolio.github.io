@@ -1601,3 +1601,16 @@ a:focus {
         padding: 0 5px;
     }
 }
+
+@media (max-width: 426px) {
+    #tech-stack {
+        display: none;
+    }
+    #skillset{
+        display: none;
+    }
+    .navbar .navbar-brand {
+        font-size: 20px;
+    }
+}   
+
