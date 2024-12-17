@@ -279,6 +279,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    padding: 18vh;
 }
 
 .hero .hero-text p {
@@ -1603,6 +1604,10 @@ a:focus {
 }
 
 @media (max-width: 426px) {
+    .hero .hero-content{
+        padding-top: 18vh;
+        padding-bottom: 18vh;
+    }
     #tech-stack {
         display: none;
     }
